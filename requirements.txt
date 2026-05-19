@@ -1,6 +1,6 @@
-Streamline
-Pandas
-openpyxl
+streamlit
+pandas
 plotly
+openpyxl
 matplotlib
-request
+numpy

@@ -1,0 +1,6 @@
+Streamline
+Pandas
+openpyxl
+plotly
+matplotlib
+request
